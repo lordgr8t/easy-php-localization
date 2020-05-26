@@ -31,6 +31,7 @@ include_once ("lang/lang.".$CurentLang.".php");
 <body>
 	<h1><?php echo $Lang['header_title']; ?></h1>
 	<h3><?php echo $Lang['site_slogan']; ?></h3>
+	<a href="https://twitter.com/gr8t_mark">Twitter</a><br>
 	<a href="index.php?lang=ru"><img src="img/ru.png"></a> 
 	<a href="index.php?lang=en"><img src="img/en.png"></a> 
 </td>
