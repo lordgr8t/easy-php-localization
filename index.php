@@ -27,7 +27,7 @@ include_once ("lang/lang.".$CurentLang.".php");
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title><?php echo $Lang['title']; ?></title>
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="https://lordgr8t.github.io/easy-php-localization/css/main.css">
 </head>
 <body>
 	<h1><?php echo $Lang['header_title']; ?></h1>
