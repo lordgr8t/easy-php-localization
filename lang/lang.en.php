@@ -1,7 +1,9 @@
 <?php
 $Lang = array(
- "title" 	=> "easy php localization",
- "header_title" => "easy php localization",
- "site_slogan"	=> "powered by LORD GR8T",
+ "title" 	=> "Easy php localization",
+ "header_title" => "Easy php localization",
+ "site_slogan"	=> "Powered by LORD GR8T",
+ 
+ 
 );
 ?>

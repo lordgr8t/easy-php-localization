@@ -26,12 +26,13 @@ include_once ("lang/lang.".$CurentLang.".php");
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title><?php echo $Lang['title']; ?></title>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 	<h1><?php echo $Lang['header_title']; ?></h1>
 	<h3><?php echo $Lang['site_slogan']; ?></h3>
-	<a href="https://twitter.com/gr8t_mark">Twitter</a><br>
+	<a class="twit" target="_blank" href="https://twitter.com/gr8t_mark">Twitter</a><br>
 	<a href="index.php?lang=ru"><img src="img/ru.png"></a> 
 	<a href="index.php?lang=en"><img src="img/en.png"></a> 
 </td>

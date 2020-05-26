@@ -1,0 +1,28 @@
+*{
+	background-color: #555;
+}
+body{
+	max-width: 1100px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 20%;
+	color: #ccc;
+}
+a{
+	text-decoration: none;
+	color: #ccc;
+}
+h1{
+	font-weight: 300;
+}
+h3{
+	font-weight: 300;
+}
+.twit {
+	font-weight: 300;
+}
+img{
+	margin-top:  2%;
+	width: 10%;
+}
